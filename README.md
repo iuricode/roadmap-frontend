@@ -65,7 +65,7 @@ Framework JavaScript é uma estrutura de desenvolvimento que fornece um conjunto
 
 ## Contribuição ✨
 
-Ajude a comunidade tornando este projeto ainda mais incrível. Leia como constribuir clicando **[aqui](https://github.com/iuricode/roadmap-frontend/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/roadmap-frontend/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis! 
+Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/iuricode/roadmap-frontend/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/roadmap-frontend/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis! 
 
 ## Aprenda desenvolvimento frontend ❤️
 
