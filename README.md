@@ -16,11 +16,13 @@ HTML (Hypertext Markup Language ou Linguagem de Marcação de HiperTexto) é uma
 - Textos
 - Medias
 - Div
+- Image
 - Link
 - Tabela
 - Listas
 - Formulário
-- Tags semânticas 
+- Tags semânticas
+- ID e Classes
 - Meta tags
 
 ## CSS
@@ -29,8 +31,11 @@ CSS (Cascading Style Sheets ou Folhas de Estilo em Cascata) é a linguagens de m
 
 - Sintaxe
 - Variáveis
+- Fontes
 - Unidades de medidas
 - Cores
+- Box-sizing
+- Bordas
 - Seletores
 - Preenchimentos
 - Display
